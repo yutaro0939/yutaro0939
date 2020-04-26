@@ -1,0 +1,624 @@
+body {
+	color: #484848;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 58px;
+	color: #333333;
+}
+
+h4 {
+	font-weight: bold;
+}
+
+header .header-left ul li a {
+	padding: 7px 0 !important;
+	margin: 0 8px; 
+}
+
+
+.container-fluid1 {
+	max-width: 1070px;
+	margin: 0 auto;
+}
+
+
+/* Navigation Section */
+
+.icon-color1 {
+	color: #008489;
+	margin-left: 10px;
+	margin-right: 3px;
+}
+
+.navbar ul li {
+	/* color: #008489 !important; */
+	height: 50px;
+	font-size: 14px;
+	font-weight: 600;
+	margin-top: 4px;
+	margin-right: 16px;
+	padding: 0;
+}
+
+.navbar {
+	padding-bottom: 1px;
+}
+
+.header-right {
+	margin: 10px 0 0 450px; 
+}
+
+.header-right ul {
+	list-style: none;
+	display: flex;
+}
+
+.header-right ul li {
+	margin: 0;
+	padding: 5px 0 0 0;
+}
+
+.header-right .far {
+	color: #484848;
+}
+
+.header-right h3 {
+	font-size: 14px;
+	margin: 10px 5px 0 0;
+}
+
+.header-right .btn{
+	font-weight: bold;
+	margin-left: 13px;
+}
+
+.header-right .btn-color1 {
+	background: #DB3742;
+	color: white;
+}
+
+
+/* Main */
+.jumbotron {
+	background-image:url(img/background1.jpg);
+	background-size: cover;
+	height: 635px;
+	margin-top: 86px;
+	margin-bottom: 10px;
+}
+
+.jumbotron h1 {
+	color: white;
+	padding: 138px 90px 0 115px;
+	font-size: 39px;
+}
+
+
+
+/* Dorekurai1 Section */
+.dore1 {
+	width: 460px;
+	height: 483px;
+	padding: 15px 10px; 
+	position: absolute;
+	top: 158px;
+	right: 92px;
+	background-color: white;
+	border-radius: 5px;
+}
+
+.dore1 h1 {
+	color: #333333;
+	font-size: 40px;
+	line-height: 40px;
+	margin-bottom: 30px;
+}
+
+.dore1 h6 {
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+
+.heiretsu {
+	display: flex;
+}
+
+.kashikiri {
+	width: 300px;
+}
+
+.guest {
+	width: 150px;
+	margin-left: 20px;
+}
+
+.dore1 .btn {
+	width: 100%;
+	height: 45px;
+	border-color: #EBEBEB;
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+.dore1 .btn-color2 {
+	background: #FF5A5F;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	height: 50px;
+	padding: 10px;
+}
+
+.dore1 .heading {
+	font-size: 40px;
+	font-weight: bold;
+	color: #333333;
+}
+
+.dore1 .far {
+	color: #484848;
+}
+
+.dore1 p {
+	font-size: 13px;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+/* Dorekurai2 Section */
+.dore2 h6 {
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.dore2 .input {
+	padding: 10px 15px;
+}
+
+.dore2 .btn {
+	width: 100%;
+	height: 45px;
+	border-color: #EBEBEB;
+	margin-bottom: 0;
+	text-align: left;
+}
+.dore2 .btn-margin {
+	margin-bottom: 10px;
+}
+
+.dore2 .btn-color2 {
+	background: #FF5A5F;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	height: 50px;
+	padding: 10px;
+}
+
+.dore2 .heading {
+	font-size: 40px;
+	font-weight: bold;
+	color: #333333;
+}
+
+.dore2 .far {
+	color: #484848;
+}
+
+.dore2 p {
+	font-size: 13px;
+	margin: 20px 0;
+}
+
+
+
+
+
+/* Three-step Section */
+.three-step {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.heading-underline{
+	width: 70px;
+	height: 2px;
+	background-color: #767676;
+	margin: 0 auto 20px;
+}
+
+.three-step h1 {
+	padding-bottom: 25px;
+}
+
+.three-step h4 {
+	padding: 18px 0 10px;
+}
+
+.three-step p {
+	line-height: 30px;
+}
+
+.three-step a {
+	color: #008489;
+}
+
+
+
+/* Host-h Section */
+.host-h {
+	padding-bottom: 100px;
+}
+
+.host-h .fas {
+	color: #FDB32B;
+}
+
+.host-h p {
+	color: #767676;
+}
+
+
+
+/* Manichi Section */
+.manichi {
+	padding-bottom: 40px;
+}
+
+.manichi .fas {
+	color: #008489;
+	padding: 0 10px;
+}
+
+.manichi p {
+	line-height: 30px;
+}
+
+.manichi a {
+	color: #008489;
+}
+
+
+/* Img Section */
+.img {
+	padding-bottom: 120px;
+}
+
+
+/* Simple Section */
+.simple {
+	padding-bottom: 40px;
+}
+
+.simple h1 {
+	padding-bottom: 25px;
+}
+
+.simple h4 {
+	padding: 18px 0 10px;
+}
+
+.simple p {
+	line-height: 30px;
+}
+
+.simple a {
+	color: #008489;
+}
+
+
+/* Host-s Section */
+.host-s {
+	padding-bottom: 40px;
+}
+
+.host-s .fas {
+	color: #FDB32B;
+}
+
+.host-s p {
+	color: #767676;
+}
+
+
+/* Yume Section */
+.yume {
+	padding-bottom: 40px;
+}
+
+.yume h1 {
+	padding-bottom: 25px;
+}
+
+.yume h4 {
+	padding: 18px 0 10px;
+	font-size: 60px;
+	font-weight: normal;
+}
+
+.yume p {
+	line-height: 30px;
+}
+
+
+/* Airbnb Section */
+.airbnb {
+	padding-bottom: 110px;
+}
+
+.airbnb h1 {
+	padding-bottom: 25px;
+}
+
+.airbnb h4 {
+	padding: 18px 0 10px;
+}
+
+.airbnb p {
+	line-height: 30px;
+}
+
+.airbnb a {
+	color: #008489;
+}
+
+
+/* Yoku Section */
+.yoku {
+	padding-bottom: 40px;
+}
+
+.yoku h1 {
+	padding-bottom: 60px;
+}
+
+.yoku a {
+	color: #008489;
+	font-size: 18px;
+	line-height: 40px;
+}
+
+
+/* Hosting Section */
+.hosting {
+	padding-bottom: 40px;
+}
+
+.hosting h6 {
+	font-weight: bold;
+}
+
+.hosting a {
+	color: #008489;
+}
+
+/* Main2 Section */
+.main2 {
+	background-image: url(img/background2.jpg);
+	background-size: cover;
+	height: 420px;
+	padding: 75px 90px;
+	margin-bottom: 70px;
+}
+
+.main2 h1 {
+	color: white;
+	margin-bottom: 40px;
+}
+
+.main2 .btn-color3 {
+	background: white;
+	color: #484848;
+	font-size: 16px;
+	font-weight: bold;
+	margin-left: 20px;
+	width: 120px
+}
+
+
+/* Footer Section */
+footer h6 {
+	font-size: 14px;
+	font-weight: 800;
+	line-height: 1.28em; 
+	color: rgb(72, 72, 72);
+	margin-bottom: 15px;  
+}
+
+footer a {
+	text-decoration: none;
+	color: #767676;
+	font-size: 13px;
+	font-weight: bold;
+	display: block;
+	line-height: 22px;
+}
+
+footer p {
+	color: #767676;
+	font-size: 14px;
+}
+
+.copy {
+	padding: 0 0 15px 30px;
+	display: flex;
+}
+.copy .fab {
+	margin: 5px 10px 0 10px;
+}
+.copy p {
+	padding-bottom: 10px;
+}
+
+
+
+@media (min-width: 1200px) {
+.container-fluid1 {
+	width: 100%;
+}
+.dore2 {
+	display: none;
+}
+
+.jumbotron h1 {
+	display: none;
+}
+
+.container-fluid2 {
+	width: 87%;
+	margin: 40px auto;
+}
+
+.container-fluid3 {
+	width: 87%;
+	margin: 40px auto;
+}
+}
+
+
+@media (max-width: 1199px) {
+.dore1 {
+	display: none;
+}
+.jumbotron {
+	height: 280px;
+	margin-top: 0;
+}
+
+.container-fluid1 {
+	width: 80%;
+}
+.container-fluid1 h1 {
+	font-size: 40px;
+	font-weight: 600;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 120px;
+}
+
+.navbar {
+	display: none;
+}
+
+.container-fluid2 {
+	width: 70%;
+	margin: 20px auto;
+}
+
+.heading {
+	font-size: 39px;
+}
+
+.host-h h2, .host-s h2 {
+	font-size: 20px;
+}
+.host-h p, .host-s p {
+	font-size: 14px;
+}
+.host-h .btn, .host-s .btn {
+	font-size: 16px;
+	font-weight: bold;
+}
+.host-h .fas, .host-s .fas {
+	font-size: 20px;
+}
+.container-fluid3 {
+	width: 68%;
+	margin: 20px auto;
+}
+
+.yume h4 {
+	font-size: 40px;
+}
+.yume p {
+	font-size: 13px;
+}
+
+.hosting h4 {
+	font-size: 24px;
+	text-align: left;
+}
+.hosting p {
+	font-size: 13px;
+}
+.hositng a {
+	display: none;
+}
+
+.main2 h1 {
+	font-size: 40px;
+}
+.main2 .btn {
+	margin-left: 0px;
+}
+}
+
+
+
+@media (max-width: 767px) {
+.container-fluid1 {
+	width: 100%;
+}
+.container-fluid1 h1 {
+	font-size: 34px;
+	font-weight: 600;
+	padding-right: 20px;
+	padding-left: 20px;
+	/* padding-top: 100px; */
+}
+.container-fluid2 {
+	width: 100%;
+	margin: 0;
+}
+.container-fluid3 {
+	width: 97%;
+}
+
+.heading {
+	text-align: left !important;
+}
+.heading-underline {
+	margin-left: 0;
+}
+
+.yume h4, .yume p {
+	text-align: left;
+}
+
+.yoku a {
+	font-size: 16px;
+}
+
+footer {
+	display: none;
+}
+
+
+
+}
+
+/*============ BOOTSTRAP BREAK POINTS:
+
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+=============
